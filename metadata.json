@@ -1,0 +1,7 @@
+{
+  "name": "CosmetiScan AI",
+  "description": "Scan cosmetic barcodes to analyze ingredients, safety scores, and receive skin-type specific recommendations using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
